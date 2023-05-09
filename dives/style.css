@@ -1,0 +1,30 @@
+.hello1 {
+background-color: darkblue;  width: 430px;
+ padding: 100px; margin: 20px;  margin-left: 60px;
+ height: 150px;
+ border-radius: 14px;
+ float: left;
+}
+.hello2 {
+    background-color: chocolate;
+
+width: 430px;
+height: 150px;
+border-radius: 14px;
+padding: 100px;
+margin-left: 45px;
+float: left;
+
+}
+.hello3 {
+background-color: red; 
+float: left;
+width: 1325px;
+height: 350px;
+border-radius: 14px;
+margin-left: 60px;
+
+
+}
+
+
